@@ -1,0 +1,7143 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.06425, 
+          43.34146
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "avenue de l'esterel", 
+        "id": "06004-T-002", 
+        "insee": "06004", 
+        "nom": "Juan Gare"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.07172, 
+          43.34477
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "boulevard Albert 1er", 
+        "id": "06004-T-003", 
+        "insee": "06004", 
+        "nom": "Place de Gaulle"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.0637, 
+          43.34076
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "avenue Guy de Maupassant", 
+        "id": "06004-T-014", 
+        "insee": "06004", 
+        "nom": "avenue Guy de Maupassant"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.13547, 
+          43.5545056
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "chemin de la garoupe", 
+        "id": "06004-T-991", 
+        "insee": "06004", 
+        "nom": "La Garoupe"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2149488, 
+          43.6661332
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Terminal 1", 
+        "id": "06088-T-001", 
+        "insee": "06088", 
+        "nom": "AEROPORT  I"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2149488, 
+          43.6661332
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Terminal 2", 
+        "id": "06088-T-002", 
+        "insee": "06088", 
+        "nom": "AEROPORT  II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2616862, 
+          43.7040472
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Thiers - Devant la gare SNCF", 
+        "id": "06088-T-010", 
+        "insee": "06088", 
+        "nom": "GARE S.N.C.F."
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2900097, 
+          43.7055259
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Devant la gare de Riquier", 
+        "id": "06088-T-011", 
+        "insee": "06088", 
+        "nom": "GARE DE RIQUIER"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2598518, 
+          43.7090101
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Alfred Binet - devant la nouvelle gare", 
+        "id": "06088-T-012", 
+        "insee": "06088", 
+        "no_appel": "0493137878", 
+        "nom": "GARE DES CHEMINS DE FER DE PROVENCE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2564671, 
+          43.7009
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Angle bd Gambetta / Rue Rossini", 
+        "id": "06088-T-023", 
+        "insee": "06088", 
+        "nom": "JARDIN IBERT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2696564, 
+          43.7096191
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue du Docteur M\u00e9nard", 
+        "id": "06088-T-029", 
+        "insee": "06088", 
+        "nom": "MUSEE CHAGALL"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          7.2729765, 
+          43.6959526
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Raoul Bosio", 
+        "id": "06088-T-032", 
+        "insee": "06088", 
+        "nom": "OPERA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37833979518011, 
+          43.3456838137122
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Simon Bolivar", 
+        "id": "13055-T-011", 
+        "insee": "13055", 
+        "nom": "Simon Bolivar"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39024011723016, 
+          43.3094755562443
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "30 rue Jobin", 
+        "id": "13055-T-016", 
+        "insee": "13055", 
+        "nom": "Jobin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38451267425018, 
+          43.2819509311926
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Saint Sebastien", 
+        "id": "13055-T-018", 
+        "insee": "13055", 
+        "nom": "Saint Sebastien"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.35926390171023, 
+          43.2846617288703
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Angle rue d'Endoume/Avenue Joseph Etienne", 
+        "id": "13055-T-023", 
+        "insee": "13055", 
+        "nom": "Joseph Etienne"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38990511846036, 
+          43.2878812007534
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Chauvelin", 
+        "id": "13055-T-036", 
+        "insee": "13055", 
+        "nom": "Chauvelin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36634795719045, 
+          43.2896953352366
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue d'Endoume", 
+        "id": "13055-T-045", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Endoume St Victor"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36766367362047, 
+          43.2956433902129
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai du Port", 
+        "id": "13055-T-047", 
+        "insee": "13055", 
+        "nom": "Quai Du Port"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37473029039051, 
+          43.3267006810518
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Danielle Casanova", 
+        "id": "13055-T-051", 
+        "insee": "13055", 
+        "nom": "Danielle Casanova"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36731891401059, 
+          43.318871127985
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Cazemajou", 
+        "id": "13055-T-059", 
+        "insee": "13055", 
+        "nom": "Cazemajou"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38451249127076, 
+          43.2918183969292
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place notre Dame du Mont", 
+        "id": "13055-T-076", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Notre Dame Du Mont"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39560266316089, 
+          43.2921741538629
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Saint Pierre", 
+        "id": "13055-T-089", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Hopital Conception"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.43658179810114, 
+          43.3083367730338
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de la Figone", 
+        "id": "13055-T-114", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Figone"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.43625718590125, 
+          43.3421953577616
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rond point Joliot Curie IUT Saint Jerome", 
+        "id": "13055-T-125", 
+        "insee": "13055", 
+        "nom": "Joliot Curie"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37102636253138, 
+          43.2977188871525
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Grand'Rue", 
+        "id": "13055-T-138", 
+        "insee": "13055", 
+        "nom": "Grandrue"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38352958418161, 
+          43.2856546803188
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Castellane", 
+        "id": "13055-T-161", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Castellane"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.42049172887177, 
+          43.2691296809553
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "225 Bd Paul Claudel", 
+        "id": "13055-T-177", 
+        "insee": "13055", 
+        "nom": "Claudel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37238334082193, 
+          43.289981644889
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Cours Pierre Puget", 
+        "id": "13055-T-193", 
+        "insee": "13055", 
+        "nom": "Puget Haut"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37132679916203, 
+          43.2989414648852
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Mery", 
+        "id": "13055-T-203", 
+        "insee": "13055", 
+        "nom": "Mery"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.371490295204, 
+          43.3104031208235
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Guinot", 
+        "id": "13055-T-204", 
+        "insee": "13055", 
+        "nom": "Guinot"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38108257915221, 
+          43.2992066868016
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Allee Leon Gambetta", 
+        "id": "13055-T-221", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Leon Gambetta"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39708693713242, 
+          43.3017234052623
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de Provence", 
+        "id": "13055-T-242", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Provence"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.41727313678245, 
+          43.2794198012313
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de Pont de Vivaux", 
+        "id": "13055-T-245", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Pont De Vivaux"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39714006271269, 
+          43.3138424273273
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Ave des Chutes Lavie", 
+        "id": "13055-T-269", 
+        "insee": "13055", 
+        "nom": "Chutes Lavie"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.3813842592272, 
+          43.3041349761152
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Honnorat", 
+        "id": "13055-T-272", 
+        "insee": "13055", 
+        "nom": "Honnorat"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.31524068167276, 
+          43.360176626323
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Plage de l'Estaque", 
+        "id": "13055-T-276", 
+        "insee": "13055", 
+        "nom": "Estaque Plage"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.41450458592305, 
+          43.304513643946
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Grimaldi", 
+        "id": "13055-T-305", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Grimaldi Regusse"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37687044338308, 
+          43.3022955274524
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "avenue Charles Nedelec", 
+        "id": "13055-T-308", 
+        "insee": "13055", 
+        "nom": "Nedelec"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.3771696727352, 
+          43.2971165376457
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de Bir Hakeim", 
+        "id": "13055-T-352", 
+        "insee": "13055", 
+        "nom": "Bir Hakeim"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37324943904368, 
+          43.305401187325
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Camille Pelletan", 
+        "id": "13055-T-368", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Camille Pelletan"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.35909905667374, 
+          43.288807160618
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue Decazes", 
+        "id": "13055-T-374", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Place Du Quatre Septembre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37440227512379, 
+          43.2478730587312
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Pce Vieille Chapelle", 
+        "id": "13055-T-379", 
+        "insee": "13055", 
+        "nom": "Vieille Chapelle"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36988355879413, 
+          43.2930004303239
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "20 quai de Rive Neuve", 
+        "id": "13055-T-413", 
+        "insee": "13055", 
+        "nom": "Quai De Rive Neuve"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38272230879424, 
+          43.2792621210563
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Ernest Delibes", 
+        "id": "13055-T-424", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Delibes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36286034562432, 
+          43.2983107773665
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Bd du Littoral", 
+        "id": "13055-T-432", 
+        "insee": "13055", 
+        "nom": "Mucem"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38994042374451, 
+          43.2495703246654
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de Hambourg", 
+        "id": "13055-T-451", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Hambourg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.3584332208462, 
+          43.3479091440311
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Chemin de Saint Louis", 
+        "id": "13055-T-462", 
+        "insee": "13055", 
+        "nom": "Saint Louis"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.46507874737464, 
+          43.3126847179141
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face au 4bis route d'enco de botte", 
+        "id": "13055-T-464", 
+        "insee": "13055", 
+        "nom": "Enco De Botte"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.43278108107494, 
+          43.3209789593729
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Square Edouard Estaunie", 
+        "id": "13055-T-494", 
+        "insee": "13055", 
+        "nom": "Bois Lemaitre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36561825108505, 
+          43.3051480615497
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la Joliette", 
+        "id": "13055-T-505", 
+        "insee": "13055", 
+        "nom": "Joliette"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.44461447982513, 
+          43.2951742511331
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Ave William booth", 
+        "id": "13055-T-513", 
+        "insee": "13055", 
+        "nom": "William Booth"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37383322462526, 
+          43.2870586045776
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Bd Notre Dame", 
+        "id": "13055-T-526", 
+        "insee": "13055", 
+        "nom": "Notre Dame"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38727276945583, 
+          43.2700478619136
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue du Prado", 
+        "id": "13055-T-583", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "St Giniez"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38191283296584, 
+          43.2539328884261
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Louis Bonnefon", 
+        "id": "13055-T-584", 
+        "insee": "13055", 
+        "nom": "Bonnefon"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.43116534108585, 
+          43.2828311371811
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Tse de la Roue", 
+        "id": "13055-T-585", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Saint Loup"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38659706051597, 
+          43.3118806663674
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Bernard Cadenat", 
+        "id": "13055-T-597", 
+        "insee": "13055", 
+        "nom": "Bernard Cadenat"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.40404231777614, 
+          43.3164659549026
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de Saint Jjust", 
+        "id": "13055-T-614", 
+        "info": "face au Dome", 
+        "insee": "13055", 
+        "nom": "Station Dome"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.42948670475621, 
+          43.3301722436315
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Ave de la Croix Rouge", 
+        "id": "13055-T-621", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Rose"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39310804408663, 
+          43.3042917551718
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Bd Montricher", 
+        "id": "13055-T-663", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Montricher"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39222753630665, 
+          43.2725230879331
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rond point du Prado", 
+        "id": "13055-T-665", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Prado Chanot"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.3751100925666, 
+          43.2948664046419
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Bailli de Suffren", 
+        "id": "13055-T-666", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Bailli De Suffren"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38147646970678, 
+          43.2914501094285
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Lafon", 
+        "id": "13055-T-678", 
+        "insee": "13055", 
+        "nom": "Lafon"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37792727716679, 
+          43.3111396067536
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Kleber Prolongee", 
+        "id": "13055-T-679", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Kleber"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39426527643684, 
+          43.2587886632844
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Ave de Mazargues", 
+        "id": "13055-T-684", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Mazargues"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37428931717734, 
+          43.29400499661
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Cours Jean Ballard", 
+        "id": "13055-T-734", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Jean Ballard"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.4032986961748, 
+          43.2691628586019
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Bd Sainte Marguerite", 
+        "id": "13055-T-748", 
+        "info": "Bd Schloesing", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Dromel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.3908779660752, 
+          43.2949110424433
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Angle Bd Chave Bd Eugene Pierre", 
+        "id": "13055-T-752", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Eugene Pierre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38492837436798, 
+          43.2996905653238
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Square Stalingrad", 
+        "id": "13055-T-798", 
+        "insee": "13055", 
+        "nom": "Stalingrad"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38975340651799, 
+          43.2474389526784
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Jean Malrieu", 
+        "id": "13055-T-799", 
+        "insee": "13055", 
+        "nom": "Malrieu"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37447185296808, 
+          43.26204684988
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Promenade G. Pompidou", 
+        "id": "13055-T-808", 
+        "insee": "13055", 
+        "nom": "David"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38502470190823, 
+          43.3285329719756
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Chemin de Gibbes", 
+        "id": "13055-T-823", 
+        "insee": "13055", 
+        "nom": "Gibbes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37726165614828, 
+          43.2903158681452
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Stanislas Torrents", 
+        "id": "13055-T-828", 
+        "insee": "13055", 
+        "nom": "Puget Bas"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.40337593281831, 
+          43.2915531245245
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Saint Pierre", 
+        "id": "13055-T-831", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Chu Timone"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.4137755815834, 
+          43.3264565977179
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Laveran", 
+        "id": "13055-T-834", 
+        "insee": "13055", 
+        "nom": "Hopital Laveran"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.43693281607846, 
+          43.2994044860499
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Allee de La Grande Bastide Cazaulx", 
+        "id": "13055-T-846", 
+        "insee": "13055", 
+        "nom": "Gde Bastide Cazaulx"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36599304848847, 
+          43.3079675461201
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai du Lazaret", 
+        "id": "13055-T-847", 
+        "insee": "13055", 
+        "nom": "Les Terrasses Du Port"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.40019297255852, 
+          43.2899636895173
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Bd Jean Moulin", 
+        "id": "13055-T-852", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Moulin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.42205856677855, 
+          43.2523770772242
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "83 Bd du Redon", 
+        "id": "13055-T-855", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Rouviere"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.40318723634868, 
+          43.2504815677106
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de l'Obelisque", 
+        "id": "13055-T-868", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Obelisque"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.41224834643894, 
+          43.2628052152038
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Bd Sainte Marguerite", 
+        "id": "13055-T-894", 
+        "insee": "13055", 
+        "nom": "Paoli Calmettes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38953481498895, 
+          43.3213332046275
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Traverse des Rosiers", 
+        "id": "13055-T-895", 
+        "insee": "13055", 
+        "nom": "Rosiers"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.37212630744941, 
+          43.3091650713573
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Desiree Clary", 
+        "id": "13055-T-941", 
+        "insee": "13055", 
+        "nom": "Hopital Europeen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36850607724956, 
+          43.3025296096945
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Gilbert Dru", 
+        "id": "13055-T-956", 
+        "insee": "13055", 
+        "nom": "Gilbert Dru"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.39499051736964, 
+          43.2683715991583
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Allee Marcel Leclerc", 
+        "id": "13055-T-964", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Marcel Leclerc"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.38727821868967, 
+          43.2837746513612
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue du Docteur Schweitzer", 
+        "id": "13055-T-967", 
+        "insee": "13055", 
+        "nom": "Schweitzer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.36326778925974, 
+          43.3773353640804
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Pierre Dramard", 
+        "id": "13055-T-974", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Hopital Nord"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.35593697499996, 
+          43.3714515325732
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Alphonse Canovas", 
+        "id": "13055-T-996", 
+        "insee": "13055", 
+        "no_appel": "0811469090", 
+        "nom": "Alphonse Canovas"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.48733356920263, 
+          48.390309878589
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avanc\u00e9e Porte St Louis", 
+        "emplacements": 7, 
+        "id": "29019-T-000", 
+        "insee": "29019", 
+        "nom": "Multiplexe Libert\u00e9"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.50504910273554, 
+          48.3841143634458
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Prat L\u00e9dan", 
+        "emplacements": 4, 
+        "id": "29019-T-001", 
+        "insee": "29019", 
+        "nom": "Prat L\u00e9dan"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.48018614498299, 
+          48.3872570419715
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place du 19\u00e8 RI", 
+        "emplacements": 18, 
+        "id": "29019-T-002", 
+        "insee": "29019", 
+        "nom": "Gares"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.50974544447318, 
+          48.4048359706359
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de Tarente", 
+        "emplacements": 4, 
+        "id": "29019-T-003", 
+        "insee": "29019", 
+        "nom": "Patinoire"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.47624643658769, 
+          48.3970411750703
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue Kerfautras", 
+        "emplacements": 4, 
+        "id": "29019-T-004", 
+        "insee": "29019", 
+        "nom": "rue Kerfautras"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.51860515198442, 
+          48.3869831897188
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de Qu\u00e9lern", 
+        "emplacements": 3, 
+        "id": "29019-T-005", 
+        "insee": "29019", 
+        "nom": "Brest Arena"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.49307982490963, 
+          48.3854878660093
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Bas de Siam", 
+        "emplacements": 4, 
+        "id": "29019-T-006", 
+        "insee": "29019", 
+        "nom": "Bas de Siam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.61696962772491, 
+          48.3822239148469
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de Coat Omnes", 
+        "emplacements": 1, 
+        "id": "29019-T-007", 
+        "insee": "29019", 
+        "nom": "PMR"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.51808280851782, 
+          48.3831344139522
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue docteur Roux", 
+        "emplacements": 3, 
+        "id": "29019-T-008", 
+        "insee": "29019", 
+        "nom": "Rue docteur Roux"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.50013421413494, 
+          48.3840651381711
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Bouillon", 
+        "emplacements": 3, 
+        "id": "29019-T-009", 
+        "insee": "29019", 
+        "nom": "Recouvrance"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.48895469163256, 
+          48.3810676262114
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Albert Rolland", 
+        "emplacements": 4, 
+        "id": "29019-T-010", 
+        "insee": "29019", 
+        "nom": "Rue Albert Rolland"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.50979712256176, 
+          48.404876935444
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de Tarente", 
+        "emplacements": 4, 
+        "id": "29019-T-011", 
+        "insee": "29019", 
+        "nom": "Patinoire"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.49185602968281, 
+          48.4151456455221
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Yves Giloux", 
+        "emplacements": 5, 
+        "id": "29019-T-012", 
+        "insee": "29019", 
+        "nom": "\u00c9cole primaire publique Ferdinand Buisson"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -4.46649726847175, 
+          48.4018221677253
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de Strasbourg", 
+        "emplacements": 6, 
+        "id": "29019-T-013", 
+        "insee": "29019", 
+        "nom": "Place de Strasbourg"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.36021339356, 
+          43.6547783189
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "AV D AEROCONSTELLATION BLAGNAC", 
+        "emplacements": 3, 
+        "id": "31069-T-033", 
+        "insee": "31069", 
+        "nom": "AEROCONSTELLATION (AV D AEROCONSTELLATION)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.35968228328, 
+          43.6550222857
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "AV D AEROCONSTELLATION BLAGNAC", 
+        "emplacements": 2, 
+        "id": "31069-T-042", 
+        "insee": "31069", 
+        "nom": "AEROCONSTELLATION (AV D AEROCONSTELLATION)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.42807632123, 
+          43.6931107304
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "13 RUE DES SPORTS CASTELGINEST", 
+        "emplacements": 1, 
+        "id": "31116-T-013", 
+        "insee": "31116", 
+        "nom": "SPORTS (RUE DES SPORTS)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.34341457759, 
+          43.6164261403
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "6 AV GEORGES GUYNEMER COLOMIERS", 
+        "emplacements": 1, 
+        "id": "31149-T-014", 
+        "insee": "31149", 
+        "nom": "GUYNEMER (AV GEORGES GUYNEMER)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.3294392305, 
+          43.6102856714
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 PL DE LA POSTE COLOMIERS", 
+        "emplacements": 1, 
+        "id": "31149-T-023", 
+        "insee": "31149", 
+        "nom": "POSTE (PL DE LA POSTE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.28114825994, 
+          43.6171829922
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "43 RUE PRINCIPALE PIBRAC", 
+        "emplacements": 4, 
+        "id": "31417-T-022", 
+        "insee": "31417", 
+        "nom": "PRINCIPALE (RUE PRINCIPALE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.37561986508, 
+          43.7458941326
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "AV SEGUSINO SAINT-JORY", 
+        "emplacements": 1, 
+        "id": "31490-T-026", 
+        "insee": "31490", 
+        "nom": "SEGUSINO (AV SEGUSINO)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.53266608889, 
+          43.554532572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 PL DE LA POSTE SAINT-ORENS-DE-GAMEVILLE", 
+        "emplacements": 2, 
+        "id": "31506-T-021", 
+        "insee": "31506", 
+        "nom": "POSTE (PL DE LA POSTE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.43325834747, 
+          43.6270055899
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 METRO BARRIERE DE PARIS TOULOUSE", 
+        "emplacements": 7, 
+        "id": "31555-T-000", 
+        "insee": "31555", 
+        "nom": "UNIS (AV DES ETATS UNIS)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44602150571, 
+          43.6081479087
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "33 BD DE STRASBOURG TOULOUSE", 
+        "emplacements": 3, 
+        "id": "31555-T-001", 
+        "insee": "31555", 
+        "nom": "STRASBOURG (BD DE STRASBOURG)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.41871358743, 
+          43.5935102549
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 METRO ARENES TOULOUSE", 
+        "emplacements": 4, 
+        "id": "31555-T-002", 
+        "insee": "31555", 
+        "nom": "NADAL (PL AGAPITO NADAL)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.39704276524, 
+          43.6081654043
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 RTE DE BAYONNE TOULOUSE", 
+        "emplacements": 6, 
+        "id": "31555-T-003", 
+        "insee": "31555", 
+        "nom": "BAYONNE (RTE DE BAYONNE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.39198545131, 
+          43.5695182068
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 METRO BASSO CAMBO TOULOUSE", 
+        "emplacements": 4, 
+        "id": "31555-T-004", 
+        "insee": "31555", 
+        "nom": "BOUILLIERE (PL EDOUARD BOUILLIERE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.4961152588, 
+          43.5600454248
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "30 RUE DES COSMONAUTES TOULOUSE", 
+        "emplacements": 4, 
+        "id": "31555-T-005", 
+        "insee": "31555", 
+        "nom": "COSMONAUTES (RUE DES COSMONAUTES)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44550295391, 
+          43.5974987606
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 PL DES CARMES TOULOUSE", 
+        "emplacements": 3, 
+        "id": "31555-T-006", 
+        "insee": "31555", 
+        "nom": "CARMES (PL DES CARMES)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.43757283025, 
+          43.5843279887
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "ENTREE  STADIUM TOULOUSE", 
+        "emplacements": 8, 
+        "id": "31555-T-007", 
+        "insee": "31555", 
+        "nom": "(VA VA007692)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44702891094, 
+          43.6049814103
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "13 PL DU PDT THOMAS WILSON TOULOUSE", 
+        "emplacements": 10, 
+        "id": "31555-T-008", 
+        "insee": "31555", 
+        "nom": "WILSON (PL DU PDT THOMAS WILSON)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.45181589081, 
+          43.6010806251
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "9 BD LAZARE CARNOT TOULOUSE", 
+        "emplacements": 8, 
+        "id": "31555-T-009", 
+        "insee": "31555", 
+        "nom": "CARNOT (BD LAZARE CARNOT)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.45285109715, 
+          43.6121807432
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "64 GARE SNCF   MATABIAU TOULOUSE", 
+        "emplacements": 20, 
+        "id": "31555-T-010", 
+        "insee": "31555", 
+        "nom": "BONREPOS (BD DE BONREPOS)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.37218402768, 
+          43.6000889346
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "HALTE SNCF LIGNE C ST MARTIN TOULOUSE", 
+        "emplacements": 2, 
+        "id": "31555-T-011", 
+        "insee": "31555", 
+        "nom": "DISSARD (RUE MARIE LOUISE DISSARD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.39771462443, 
+          43.6080102327
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 PL DU DR JOSEPH BAYLAC TOULOUSE", 
+        "emplacements": 6, 
+        "id": "31555-T-012", 
+        "insee": "31555", 
+        "nom": "BAYLAC (PL DU DR JOSEPH BAYLAC)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44404066818, 
+          43.5938679074
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "10 PL DU SALIN TOULOUSE", 
+        "emplacements": 5, 
+        "id": "31555-T-015", 
+        "insee": "31555", 
+        "nom": "SALIN (PL DU SALIN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44357134185, 
+          43.6039214979
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 PL DU CAPITOLE TOULOUSE", 
+        "emplacements": 7, 
+        "id": "31555-T-016", 
+        "insee": "31555", 
+        "nom": "CAPITOLE (PL DU CAPITOLE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.49192942984, 
+          43.5868037415
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "8 CITE DE L'ESPACE TOULOUSE", 
+        "emplacements": 3, 
+        "id": "31555-T-017", 
+        "insee": "31555", 
+        "nom": "GONORD (AV JEAN GONORD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.39259003271, 
+          43.5694206214
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 METRO BASSO CAMBO TOULOUSE", 
+        "emplacements": 10, 
+        "id": "31555-T-018", 
+        "insee": "31555", 
+        "nom": "BOUILLIERE (PL EDOUARD BOUILLIERE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.48094386781, 
+          43.5795973931
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "ROND POINT HENRY POTEZ TOULOUSE", 
+        "emplacements": 4, 
+        "id": "31555-T-019", 
+        "insee": "31555", 
+        "nom": "POTEZ (RPT HENRY POTEZ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.43570677993, 
+          43.5875376424
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "PARC DES EXPOSITIONS TOULOUSE", 
+        "emplacements": 6, 
+        "id": "31555-T-020", 
+        "insee": "31555", 
+        "nom": "VALLEREY (ESP GEORGES VALLEREY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.43367040232, 
+          43.6152660757
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "23 BD DE L EMBOUCHURE TOULOUSE", 
+        "emplacements": 1, 
+        "id": "31555-T-024", 
+        "insee": "31555", 
+        "nom": "EMBOUCHURE (BD DE L EMBOUCHURE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.4481965693, 
+          43.6031740552
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "16 RUE PAUL VIDAL TOULOUSE", 
+        "emplacements": 2, 
+        "id": "31555-T-025", 
+        "insee": "31555", 
+        "nom": "VIDAL (RUE PAUL VIDAL)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44593914014, 
+          43.5975530612
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 RUE THEODORE OZENNE TOULOUSE", 
+        "emplacements": 2, 
+        "id": "31555-T-027", 
+        "insee": "31555", 
+        "nom": "OZENNE (RUE THEODORE OZENNE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44654449475, 
+          43.6092048853
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "12 PL JEANNE D ARC TOULOUSE", 
+        "emplacements": 3, 
+        "id": "31555-T-028", 
+        "insee": "31555", 
+        "nom": "ARC (PL JEANNE D ARC)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44935662478, 
+          43.5808725918
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "56 AV DE L URSS TOULOUSE", 
+        "emplacements": 3, 
+        "id": "31555-T-029", 
+        "insee": "31555", 
+        "nom": "URSS (AV DE L URSS)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44709150753, 
+          43.5865553228
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "18 GRANDE RUE SAINT MICHEL TOULOUSE", 
+        "emplacements": 2, 
+        "id": "31555-T-030", 
+        "insee": "31555", 
+        "nom": "MICHEL (GRANDE-RUE SAINT MICHEL)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.41874436913, 
+          43.5933676398
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4 PL AGAPITO NADAL TOULOUSE", 
+        "emplacements": 1, 
+        "id": "31555-T-031", 
+        "insee": "31555", 
+        "nom": "NADAL (PL AGAPITO NADAL)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.484044263, 
+          43.5537700943
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "AV DE L EUROPE TOULOUSE", 
+        "emplacements": 1, 
+        "id": "31555-T-032", 
+        "insee": "31555", 
+        "nom": "EUROPE (AV DE L EUROPE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.43152696696, 
+          43.5978536673
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 PL INTERIEURE ST CYPRIEN TOULOUSE", 
+        "emplacements": 3, 
+        "id": "31555-T-034", 
+        "insee": "31555", 
+        "nom": "CYPRIEN (PL INTERIEURE ST CYPRIEN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.42633687568, 
+          43.5552558536
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 AV IRENE JOLIOT CURIE TOULOUSE", 
+        "emplacements": 6, 
+        "id": "31555-T-035", 
+        "insee": "31555", 
+        "nom": "CURIE (AV IRENE JOLIOT CURIE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.43481641301, 
+          43.6105005685
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "8 ESP COMPANS CAFFARELLI TOULOUSE", 
+        "emplacements": 5, 
+        "id": "31555-T-036", 
+        "insee": "31555", 
+        "nom": "CAFFARELLI (ESP COMPANS CAFFARELLI)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.46383590924, 
+          43.5607994644
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "118 METRO UPS TOULOUSE", 
+        "emplacements": 2, 
+        "id": "31555-T-037", 
+        "insee": "31555", 
+        "nom": "NARBONNE (RTE DE NARBONNE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.46359661151, 
+          43.6157279483
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 METRO JOLIMONT TOULOUSE", 
+        "emplacements": 4, 
+        "id": "31555-T-038", 
+        "insee": "31555", 
+        "nom": "CASSOU (ESP JEAN CASSOU)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.44773721757, 
+          43.6047213533
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 PL DU PDT THOMAS WILSON TOULOUSE", 
+        "emplacements": 12, 
+        "id": "31555-T-039", 
+        "insee": "31555", 
+        "nom": "WILSON (PL DU PDT THOMAS WILSON)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.48101547713, 
+          43.5621433352
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "16 AV EDOUARD BELIN TOULOUSE", 
+        "emplacements": 2, 
+        "id": "31555-T-040", 
+        "insee": "31555", 
+        "nom": "BELIN (AV EDOUARD BELIN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.37128726669, 
+          43.6111719042
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "0 CHE DE LA CRABE TOULOUSE", 
+        "emplacements": 2, 
+        "id": "31555-T-041", 
+        "insee": "31555", 
+        "nom": "CRABE (CHE DE LA CRABE)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.728535, 
+          45.15876
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Edmond Esmonin", 
+        "id": "38151-T-001", 
+        "insee": "38151", 
+        "nom": "Esmonin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.7118754, 
+          45.1800016
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Joseph Vallier", 
+        "emplacements": 6, 
+        "id": "38185-T-001", 
+        "insee": "38185", 
+        "nom": "Vallier"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.71363, 
+          45.19129
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de la Frise", 
+        "id": "38185-T-002", 
+        "info": "travaux", 
+        "insee": "38185", 
+        "no_appel": "0476544254", 
+        "nom": "Gare \u2013 Frise"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.715028, 
+          45.191447
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Emile Gueymard", 
+        "id": "38185-T-003", 
+        "insee": "38185", 
+        "nom": "Gare \u2013 Emile Gueymard"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.715636, 
+          45.191326
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Casimir Brenier", 
+        "id": "38185-T-004", 
+        "insee": "38185", 
+        "nom": "Gare \u2013 Casimir Brenier"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.715604, 
+          45.189905
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la Gare", 
+        "id": "38185-T-005", 
+        "insee": "38185", 
+        "nom": "Lorraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.724516, 
+          45.189495
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Victor Hugo", 
+        "id": "38185-T-006", 
+        "insee": "38185", 
+        "nom": "Victor Hugo"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.7325, 
+          45.18401
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Marechal Joffre", 
+        "id": "38185-T-007", 
+        "insee": "38185", 
+        "nom": "Joffre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.73187, 
+          45.15934
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de l\u2019Europe", 
+        "id": "38185-T-008", 
+        "insee": "38185", 
+        "nom": "Grand Place"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.762533, 
+          45.210125
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue du Gresivaudan", 
+        "id": "38229-T-001", 
+        "insee": "38229", 
+        "nom": "Gresivaudan-Aiguinards"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.5819, 
+          45.3224
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Route de la Gare", 
+        "id": "38239-T-001", 
+        "insee": "38239", 
+        "nom": "Gare de Moirans"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.632017, 
+          45.243095
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Saint Jean", 
+        "id": "38281-T-001", 
+        "insee": "38281", 
+        "nom": "Saint Jean"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.008, 
+          45.434
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la Gare", 
+        "emplacements": 3, 
+        "id": "38314-T-001", 
+        "insee": "38314", 
+        "nom": "Gare de Pontcharra"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.7529, 
+          45.1842
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Ambroise Croizat", 
+        "id": "38421-T-001", 
+        "insee": "38421", 
+        "nom": "Ambroise Croizat"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.643157, 
+          45.071641
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Route du Vercors", 
+        "id": "38436-T-001", 
+        "info": "OSM \u2013 non trouv\u00e9", 
+        "insee": "38436", 
+        "nom": "Vercors"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.810867, 
+          45.118761
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue d\u2019Uriage", 
+        "emplacements": 2, 
+        "id": "38529-T-001", 
+        "insee": "38529", 
+        "nom": "Uriage"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.870029, 
+          45.273657
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Joliot Curie", 
+        "id": "39039-T-001", 
+        "info": "OSM \u2013 non trouv\u00e9", 
+        "insee": "38039", 
+        "nom": "Joliot-Curie"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.9295926, 
+          47.9113859
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Jean Philippe Rameau", 
+        "emplacements": 2, 
+        "id": "45234-T-001", 
+        "insee": "45234", 
+        "nom": "Rue Jean Philippe Rameau"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.9047165488601, 
+          47.9078924
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Gare d\u2019Orl\u00e9ans", 
+        "emplacements": 20, 
+        "id": "45234-T-002", 
+        "insee": "45234", 
+        "nom": "Gare d\u2019Orl\u00e9ans"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.9038722, 
+          47.9020632
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "73 Rue Royale", 
+        "emplacements": 2, 
+        "id": "45234-T-003", 
+        "insee": "45234", 
+        "nom": "Rue Royale"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.8963108, 
+          47.9016694
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "28 rue Porte Madeleine", 
+        "emplacements": 3, 
+        "id": "45234-T-004", 
+        "insee": "45234", 
+        "nom": "rue Porte Madeleine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.9059222, 
+          47.8881595
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "62 Rue Eug\u00e8ne Turbat", 
+        "emplacements": 2, 
+        "id": "45234-T-005", 
+        "insee": "45234", 
+        "nom": "Rue Eug\u00e8ne Turbat"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.905919, 
+          47.8847021
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Greffier", 
+        "emplacements": 1, 
+        "id": "45234-T-006", 
+        "insee": "45234", 
+        "nom": "Rue Greffier"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.9238762, 
+          47.8366792
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de l\u2019h\u00f4pital", 
+        "emplacements": 3, 
+        "id": "45234-T-007", 
+        "insee": "45234", 
+        "nom": "H\u00f4pital de la Source"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.93681527943398, 
+          47.83441295
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Albert Camus", 
+        "emplacements": 1, 
+        "id": "45234-T-008", 
+        "insee": "45234", 
+        "nom": "Place Albert Camus"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.22463458820499, 
+          48.7010312142633
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Brigachtal", 
+        "id": "54184-T-001", 
+        "insee": "54184", 
+        "nom": "ESSEY-LES-NANCY (\u00e0 c\u00f4t\u00e9 du Mac Donald)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.20272344938798, 
+          48.6730493985139
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de la R\u00e9publique", 
+        "id": "54274-T-001", 
+        "insee": "54274", 
+        "nom": "JARVILLE (\u00e0 c\u00f4t\u00e9 de la Mairie)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.17505667172313, 
+          48.6895707824448
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Simone Veil", 
+        "id": "54395-T-001", 
+        "insee": "54395", 
+        "nom": "Gare SNCF (Station Taxi niveau -1)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.1812905793819, 
+          48.6923661044661
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Saint-Dizier", 
+        "id": "54395-T-002", 
+        "insee": "54395", 
+        "nom": "CATHEDRALE (angle rue Stanislas)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.1826094490822, 
+          48.6945245618332
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Carri\u00e8re", 
+        "id": "54395-T-003", 
+        "insee": "54395", 
+        "nom": "PORTE HERE (Place Carri\u00e8re)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.15859514726252, 
+          48.6846769925112
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de Laxou", 
+        "id": "54395-T-004", 
+        "insee": "54395", 
+        "nom": "MEDREVILLE (angle rue de Cronstadt)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.17790773911121, 
+          48.7002731340837
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Henri Deglin", 
+        "id": "54395-T-005", 
+        "insee": "54395", 
+        "nom": "CITADELLE (devant Porte Citadelle)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.1896718625702, 
+          48.6837771725029
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Mar\u00e9chal de Lattre de Tassigny", 
+        "id": "54395-T-006", 
+        "insee": "54395", 
+        "nom": "HOPITAL CENTRAL (devant h\u00f4pital central)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.1655495953671, 
+          48.6991473341293
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Aim\u00e9e Morot", 
+        "id": "54395-T-007", 
+        "insee": "54395", 
+        "nom": "AIME MOROT (angle rue Saint Bodon)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.16495296453783, 
+          48.6672668601401
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue du G\u00e9n\u00e9ral Mangin", 
+        "id": "54395-T-008", 
+        "insee": "54395", 
+        "nom": "VELODROME (angle Bd Aiguillettes)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.14396689405266, 
+          48.7017692174085
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue Ambroise Par\u00e9", 
+        "id": "54395-T-009", 
+        "insee": "54395", 
+        "nom": "HAUT DU LIEVRE (en face de la clinique Majorelle)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.17201058033846, 
+          48.6851695785702
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la Croix de Bourgogne", 
+        "id": "54395-T-010", 
+        "insee": "54395", 
+        "nom": "CROIX DE BOURGOGNE (A l'angle Rue Jeanne d'Arc)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.17441191227471, 
+          48.6791567628722
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue du G\u00e9n\u00e9ral Fabvier", 
+        "id": "54395-T-011", 
+        "insee": "54395", 
+        "nom": "FABVIER (angle rue Mar\u00e9chal Juin)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.18213871904528, 
+          48.6893412198224
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Henri Mengin", 
+        "id": "54395-T-012", 
+        "insee": "54395", 
+        "nom": "MARCHE CENTRAL (derri\u00e8re march\u00e9 couvert)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.21079921524923, 
+          48.6867256348795
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de la Concorde", 
+        "id": "54526-T-001", 
+        "insee": "54526", 
+        "nom": "TOMBLAINE (angle rue de la R\u00e9publique)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.18383924192434, 
+          48.6732890644986
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Paul Doumer", 
+        "id": "54547-T-001", 
+        "insee": "54547", 
+        "nom": "GERARD D'ALSACE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.17401976170509, 
+          48.6629948816861
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue des Nations", 
+        "id": "54547-T-002", 
+        "insee": "54547", 
+        "nom": "NATIONS (centre commercial)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.14547772931844, 
+          48.6483889646845
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "CHU devant H\u00f4pital adulte", 
+        "id": "54547-T-003", 
+        "insee": "54547", 
+        "nom": "CHU"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          6.15644658174365, 
+          48.6769396682827
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Docteur Cattenoz", 
+        "id": "54578-T-001", 
+        "insee": "54578", 
+        "nom": "VILLERS (angle Bd Mar\u00e9chal Lyautey)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36429518400001, 
+          47.74873476
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-001", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36413351499999, 
+          47.748949707
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-002", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36404025399997, 
+          47.749073684
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-003", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.35275445500002, 
+          47.741956755
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "id": "56121-T-004", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue Gilles Gahinet"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.35270837100001, 
+          47.7419957
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "id": "56121-T-005", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue Gilles Gahinet"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36163590799998, 
+          47.749207799
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "9 Place Alsace-Lorraine", 
+        "id": "56121-T-006", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Place Alsace-Lorraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36168879000002, 
+          47.749224264
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "9 Place Alsace-Lorraine", 
+        "id": "56121-T-007", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Place Alsace-Lorraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.38182672900001, 
+          47.759883022
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "99 Rue de Belgique", 
+        "id": "56121-T-008", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue de Belgique"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36407268599999, 
+          47.74903057
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-009", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.37403942700001, 
+          47.731612684
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "id": "56121-T-010", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue Honor\u00e9 d'Estienne d'Orves"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.35280205599997, 
+          47.741916529
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "id": "56121-T-011", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue Gilles Gahinet"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36173855999999, 
+          47.74923976
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "9 Place Alsace-Lorraine", 
+        "id": "56121-T-012", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Place Alsace-Lorraine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36432455900001, 
+          47.748694466
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-013", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36426803099999, 
+          47.748772008
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-014", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.36424277499998, 
+          47.748806653
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-015", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.364105924, 
+          47.748986384
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 Rue du Cou\u00ebdic de Kergoualer", 
+        "id": "56121-T-016", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue du Cou\u00ebdic de Kergoualer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.37402157299999, 
+          47.731589803
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "id": "56121-T-017", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue Honor\u00e9 d'Estienne d'Orves"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.35263078100002, 
+          47.742061267
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "id": "56121-T-018", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue Gilles Gahinet"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -3.35267033399998, 
+          47.742027842
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "id": "56121-T-019", 
+        "info": "sur rue", 
+        "insee": "56121", 
+        "nom": "Rue Gilles Gahinet"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.4759628254628, 
+          43.4935041202616
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place G\u00e9n\u00e9ral de Gaulle", 
+        "id": "64102-T-030", 
+        "insee": "64102", 
+        "nom": "Place G\u00e9n\u00e9ral de Gaulle"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          -1.46974767404329, 
+          43.4967309851684
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "place Pereire", 
+        "id": "64102-T-031", 
+        "insee": "64102", 
+        "nom": "place Pereire"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.805065, 
+          45.7670419990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de la P\u00e9pini\u00e8re Royale", 
+        "emplacements": 2, 
+        "id": "69123-T-001", 
+        "insee": "69123", 
+        "nom": "TAX901"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.853424, 
+          45.7089759990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Charles Plasse", 
+        "emplacements": 3, 
+        "id": "69123-T-002", 
+        "insee": "69123", 
+        "nom": "TAXSFO01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.842446, 
+          45.7567489990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Aim\u00e9 Collomb", 
+        "emplacements": 4, 
+        "id": "69123-T-003", 
+        "insee": "69123", 
+        "nom": "TAX312"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.90643, 
+          45.7605549990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "158, Rue L\u00e9on Blum", 
+        "emplacements": 4, 
+        "id": "69123-T-004", 
+        "insee": "69123", 
+        "nom": "TAXVIL03"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.902449, 
+          45.8178809990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "79b, Avenue de l'Europe", 
+        "emplacements": 3, 
+        "id": "69123-T-005", 
+        "insee": "69123", 
+        "nom": "TAXRIL02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.814043, 
+          45.7171299990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Pierre S\u00e9mard", 
+        "emplacements": 5, 
+        "id": "69123-T-006", 
+        "insee": "69123", 
+        "nom": "TAXOUL02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.736169, 
+          45.7819209990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Promenade de la Gare", 
+        "emplacements": 3, 
+        "id": "69123-T-007", 
+        "insee": "69123", 
+        "nom": "TAXCHR01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.898513, 
+          45.6718189990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "74, Rue Centrale", 
+        "emplacements": 1, 
+        "id": "69123-T-008", 
+        "insee": "69123", 
+        "nom": "TAXCOR01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.775071, 
+          45.8130059990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "175, All\u00e9e des Noisetiers", 
+        "emplacements": 2, 
+        "id": "69123-T-009", 
+        "insee": "69123", 
+        "nom": "TAXLIM01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.834472, 
+          45.7579299990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Rue de la Barre", 
+        "emplacements": 10, 
+        "id": "69123-T-010", 
+        "insee": "69123", 
+        "nom": "TAX200"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.893685, 
+          45.7415909990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 104, Boulevard Pinel", 
+        "emplacements": 7, 
+        "id": "69123-T-011", 
+        "insee": "69123", 
+        "nom": "TAXBRO02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.848149, 
+          45.7604319990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "67, Rue Servient", 
+        "emplacements": 5, 
+        "id": "69123-T-012", 
+        "insee": "69123", 
+        "nom": "TAX309"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.890791, 
+          45.7592359990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Avenue G\u00e9n\u00e9ral Leclerc", 
+        "emplacements": 3, 
+        "id": "69123-T-013", 
+        "insee": "69123", 
+        "nom": "TAXVIL06"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.888609, 
+          45.7320749990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Edouard Branly", 
+        "emplacements": 2, 
+        "id": "69123-T-014", 
+        "insee": "69123", 
+        "nom": "TAXBRO07"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.90203, 
+          45.7487449990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Doyen Jean L\u00e9pine", 
+        "emplacements": 5, 
+        "id": "69123-T-015", 
+        "insee": "69123", 
+        "nom": "TAXBRO05"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.949649, 
+          45.7304189990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Eurexpo", 
+        "emplacements": 10, 
+        "id": "69123-T-016", 
+        "insee": "69123", 
+        "nom": "TAXCHA01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.761104, 
+          45.8204699990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la Porte de Lyon", 
+        "emplacements": 2, 
+        "id": "69123-T-017", 
+        "insee": "69123", 
+        "nom": "TAXDAR01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.717499, 
+          45.8149819990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue de l'Hippodrome", 
+        "emplacements": 2, 
+        "id": "69123-T-018", 
+        "insee": "69123", 
+        "nom": "TAXTOU01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.957697, 
+          45.6645499990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5, Rue de la R\u00e9publique", 
+        "emplacements": 1, 
+        "id": "69123-T-019", 
+        "insee": "69123", 
+        "nom": "TAXMIO01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.834818, 
+          45.8419789990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 216, Quai Pierre Dupont", 
+        "emplacements": 1, 
+        "id": "69123-T-020", 
+        "insee": "69123", 
+        "nom": "TAXROC01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.798064, 
+          45.8099899990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Chemin des Roteaux", 
+        "emplacements": 1, 
+        "id": "69123-T-021", 
+        "insee": "69123", 
+        "nom": "TAXSDM01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.80319, 
+          45.8831819990573
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Avenue de la R\u00e9sistance", 
+        "emplacements": 1, 
+        "id": "69123-T-022", 
+        "insee": "69123", 
+        "nom": "TAXSGM01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.742272, 
+          45.8646479990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 82, Route D\u00e9partementale 306", 
+        "emplacements": 1, 
+        "id": "69123-T-023", 
+        "insee": "69123", 
+        "nom": "TAXLIS01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.777287, 
+          45.582467999057
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "14, Quai Robichon-Malgontier", 
+        "emplacements": 1, 
+        "id": "69123-T-024", 
+        "insee": "69123", 
+        "nom": "TAXGIV01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.812606, 
+          45.647045999057
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "88, Place Charles de Gaulle", 
+        "emplacements": 1, 
+        "id": "69123-T-025", 
+        "insee": "69123", 
+        "nom": "TAXVER01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.875316, 
+          45.7347819990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Jacqueline Auriol - Angle Avenue Jean Mermoz", 
+        "emplacements": 3, 
+        "id": "69123-T-026", 
+        "insee": "69123", 
+        "nom": "TAX805"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.812728, 
+          45.7684909990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3, Quai Chauveau", 
+        "emplacements": 4, 
+        "id": "69123-T-027", 
+        "insee": "69123", 
+        "nom": "TAX905"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.876523, 
+          45.7558929990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5, Place des Maisons Neuves", 
+        "emplacements": 2, 
+        "id": "69123-T-028", 
+        "insee": "69123", 
+        "nom": "TAXVIL07"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.919936, 
+          45.7773229990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 33, Rue Emile Zola", 
+        "emplacements": 2, 
+        "id": "69123-T-029", 
+        "insee": "69123", 
+        "nom": "TAXVAU01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.847669, 
+          45.8346409990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Rue Pierre Cardon", 
+        "emplacements": 1, 
+        "id": "69123-T-030", 
+        "insee": "69123", 
+        "nom": "TAXFSS01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.847054, 
+          45.8349459990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "56, Rue Gambetta", 
+        "emplacements": 1, 
+        "id": "69123-T-031", 
+        "insee": "69123", 
+        "nom": "TAXFSS02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.837377, 
+          45.7593329990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "17, Quai Jules Courmont", 
+        "emplacements": 4, 
+        "id": "69123-T-032", 
+        "insee": "69123", 
+        "nom": "TAX211"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.874406, 
+          45.7792699990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "128, Boulevard du 11 Novembre 1918", 
+        "emplacements": 2, 
+        "id": "69123-T-033", 
+        "insee": "69123", 
+        "nom": "TAXVIL08"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.81976, 
+          45.7416059990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "106, Cours Charlemagne", 
+        "emplacements": 3, 
+        "id": "69123-T-034", 
+        "insee": "69123", 
+        "nom": "TAX209"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.796193, 
+          45.7491739990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "7, Avenue Mar\u00e9chal Foch", 
+        "emplacements": 2, 
+        "id": "69123-T-035", 
+        "insee": "69123", 
+        "nom": "TAXFL01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          5.003133, 
+          45.7650469990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "27, Rue Louis Saulnier", 
+        "emplacements": 3, 
+        "id": "69123-T-036", 
+        "insee": "69123", 
+        "nom": "TAXMEY01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.841524, 
+          45.7639059990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai G\u00e9n\u00e9ral Sarrail", 
+        "emplacements": 5, 
+        "id": "69123-T-037", 
+        "insee": "69123", 
+        "nom": "TAX605"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.840147, 
+          45.8976289990573
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "102, Rue des Ecoles", 
+        "emplacements": 2, 
+        "id": "69123-T-038", 
+        "insee": "69123", 
+        "nom": "TAXGEN01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.780951, 
+          45.7950949990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 35b, Chemin du Coulouvrier", 
+        "emplacements": 6, 
+        "id": "69123-T-039", 
+        "insee": "69123", 
+        "nom": "TAXCHP02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.891139, 
+          45.7595049990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "59, Place Jules Grandcl\u00e9ment", 
+        "emplacements": 3, 
+        "id": "69123-T-040", 
+        "insee": "69123", 
+        "nom": "TAXVIL09"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.818035, 
+          45.7337519990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "85, Quai Perrache", 
+        "emplacements": 5, 
+        "id": "69123-T-041", 
+        "insee": "69123", 
+        "nom": "TAX210"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.921717, 
+          45.7606879990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "6, Avenue des Canuts", 
+        "emplacements": 2, 
+        "id": "69123-T-042", 
+        "insee": "69123", 
+        "nom": "TAXVAU02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.871626, 
+          45.7454909990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "107, Cours Albert Thomas", 
+        "emplacements": 4, 
+        "id": "69123-T-043", 
+        "insee": "69123", 
+        "nom": "TAX311"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.839893, 
+          45.7557049990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai Claude Bernard", 
+        "emplacements": 4, 
+        "id": "69123-T-044", 
+        "insee": "69123", 
+        "nom": "TAX709"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.928804, 
+          45.7251429990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "260, Avenue Jean Monnet", 
+        "emplacements": 4, 
+        "id": "69123-T-045", 
+        "insee": "69123", 
+        "nom": "TAXBRO06"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.919752, 
+          45.7421789990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 83, Avenue Pierre Brosselette", 
+        "emplacements": 2, 
+        "id": "69123-T-046", 
+        "insee": "69123", 
+        "nom": "TAXBRO04"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.779087, 
+          45.7765979990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Parking du Ch\u00eane", 
+        "emplacements": 6, 
+        "id": "69123-T-047", 
+        "insee": "69123", 
+        "nom": "TAXECU01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.806627, 
+          45.7140379990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 2, Rue Etienne Dolet", 
+        "emplacements": 4, 
+        "id": "69123-T-048", 
+        "insee": "69123", 
+        "nom": "TAXOUL01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.934665, 
+          45.6940999990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "22, Boulevard  Edouard herriot", 
+        "emplacements": 2, 
+        "id": "69123-T-049", 
+        "insee": "69123", 
+        "nom": "TAXSPR01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.78162, 
+          45.7638229990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4, Place Pierre Vauboin", 
+        "emplacements": 4, 
+        "id": "69123-T-050", 
+        "insee": "69123", 
+        "nom": "TAXTDL01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.882921, 
+          45.6995699990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Henri Barbusse", 
+        "emplacements": 5, 
+        "id": "69123-T-051", 
+        "insee": "69123", 
+        "nom": "TAXVEN01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.836273, 
+          45.7612559990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la R\u00e9publique", 
+        "emplacements": 9, 
+        "id": "69123-T-052", 
+        "insee": "69123", 
+        "nom": "TAX206"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.836337, 
+          45.7635859990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place des Cordeliers", 
+        "emplacements": 8, 
+        "id": "69123-T-053", 
+        "insee": "69123", 
+        "nom": "TAX208"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.833641, 
+          45.7607899990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Place des Jacobins", 
+        "emplacements": 6, 
+        "id": "69123-T-054", 
+        "insee": "69123", 
+        "nom": "TAX207"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.831388, 
+          45.7567979990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "26, Place Bellecour", 
+        "emplacements": 3, 
+        "id": "69123-T-055", 
+        "insee": "69123", 
+        "nom": "TAX205"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.834373, 
+          45.7543709990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "20, Quai Docteur Gailleton", 
+        "emplacements": 6, 
+        "id": "69123-T-056", 
+        "insee": "69123", 
+        "nom": "TAX201"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.826179, 
+          45.7489439990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Centre d'Echange (domaine SNCF)", 
+        "emplacements": 61, 
+        "id": "69123-T-057", 
+        "insee": "69123", 
+        "nom": "TAX202"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.825272, 
+          45.7473659990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5, Place des Archives", 
+        "emplacements": 4, 
+        "id": "69123-T-058", 
+        "insee": "69123", 
+        "nom": "TAX204"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.856125, 
+          45.7594509990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue des Cuirassiers", 
+        "emplacements": 6, 
+        "id": "69123-T-059", 
+        "insee": "69123", 
+        "nom": "TAX308"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.85944, 
+          45.7603929990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Gare de la Part-Dieu", 
+        "emplacements": 12, 
+        "id": "69123-T-060", 
+        "insee": "69123", 
+        "nom": "TAX305"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.857677, 
+          45.7620949990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "12, Boulevard Marius Vivier-Merle", 
+        "emplacements": 7, 
+        "id": "69123-T-061", 
+        "insee": "69123", 
+        "nom": "TAX304"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.861573, 
+          45.7605189990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "42, Rue de la Villette", 
+        "emplacements": 12, 
+        "id": "69123-T-062", 
+        "insee": "69123", 
+        "nom": "TAX301"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.851195, 
+          45.7619899990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "74, Rue de Bonnel", 
+        "emplacements": 5, 
+        "id": "69123-T-063", 
+        "insee": "69123", 
+        "nom": "TAX307"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.867301, 
+          45.7543789990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Rouget de L'Isle", 
+        "emplacements": 3, 
+        "id": "69123-T-064", 
+        "insee": "69123", 
+        "nom": "TAX300"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.821589, 
+          45.7734249990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Rue Philibert Roussy", 
+        "emplacements": 3, 
+        "id": "69123-T-065", 
+        "insee": "69123", 
+        "nom": "TAX400"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.835988, 
+          45.7784149990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "12, Rue Gigodot", 
+        "emplacements": 2, 
+        "id": "69123-T-066", 
+        "insee": "69123", 
+        "nom": "TAX402"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.828835, 
+          45.7624039990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "21, Quai Romain Rolland", 
+        "emplacements": 4, 
+        "id": "69123-T-067", 
+        "insee": "69123", 
+        "nom": "TAX501"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.821231, 
+          45.7591679990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "6, Rue de l'Antiquaille", 
+        "emplacements": 3, 
+        "id": "69123-T-068", 
+        "insee": "69123", 
+        "nom": "TAX504"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.796574, 
+          45.7562469990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3, Rue Joliot Curie", 
+        "emplacements": 5, 
+        "id": "69123-T-069", 
+        "insee": "69123", 
+        "nom": "TAX505"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.827844, 
+          45.7661079990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "6, Rue Octavio Mey", 
+        "emplacements": 4, 
+        "id": "69123-T-070", 
+        "insee": "69123", 
+        "nom": "TAX502"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.812657, 
+          45.7579679990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de Trion", 
+        "emplacements": 4, 
+        "id": "69123-T-071", 
+        "insee": "69123", 
+        "nom": "TAX500"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.833963, 
+          45.7863159990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Chemin du Penthod", 
+        "emplacements": 5, 
+        "id": "69123-T-072", 
+        "insee": "69123", 
+        "nom": "TAXCAL02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.894392, 
+          45.8145799990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 30, Avenue de l'Europe", 
+        "emplacements": 2, 
+        "id": "69123-T-073", 
+        "insee": "69123", 
+        "nom": "TAXRIL01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.831099, 
+          45.7744549990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "159, Boulevard de la Croix-Rousse", 
+        "emplacements": 8, 
+        "id": "69123-T-074", 
+        "insee": "69123", 
+        "nom": "TAX401"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.847985, 
+          45.7998899990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de L'\u00e9glise", 
+        "emplacements": 4, 
+        "id": "69123-T-075", 
+        "insee": "69123", 
+        "nom": "TAXCAL01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.909076, 
+          45.7639679990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "d\u00e9pose minute Bonnevay", 
+        "emplacements": 3, 
+        "id": "69123-T-076", 
+        "insee": "69123", 
+        "nom": "TAXVIL04"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.841933, 
+          45.7463349990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "16, Place Jean Mac\u00e9", 
+        "emplacements": 10, 
+        "id": "69123-T-077", 
+        "insee": "69123", 
+        "nom": "TAX707"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.835581, 
+          45.7493089990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3, Rue Jaboulay", 
+        "emplacements": 7, 
+        "id": "69123-T-078", 
+        "insee": "69123", 
+        "nom": "TAX701"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.86371, 
+          45.7709519990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "21, Rue Gabriel P\u00e9ri", 
+        "emplacements": 6, 
+        "id": "69123-T-079", 
+        "insee": "69123", 
+        "nom": "TAXVIL01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.853856, 
+          45.7696569990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "39, Cours Vitton", 
+        "emplacements": 4, 
+        "id": "69123-T-080", 
+        "insee": "69123", 
+        "nom": "TAX602"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.842826, 
+          45.7686029990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Mar\u00e9chal Lyautey", 
+        "emplacements": 6, 
+        "id": "69123-T-081", 
+        "insee": "69123", 
+        "nom": "TAX604"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.85436, 
+          45.7856819990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "50, Quai Charles de Gaulle", 
+        "emplacements": 6, 
+        "id": "69123-T-082", 
+        "insee": "69123", 
+        "nom": "TAX600"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.84487, 
+          45.7767679990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place G\u00e9n\u00e9ral Leclerc", 
+        "emplacements": 6, 
+        "id": "69123-T-083", 
+        "insee": "69123", 
+        "nom": "TAX603"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.917215, 
+          45.7379769990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "74, Avenue Ferdinand Buisson", 
+        "emplacements": 2, 
+        "id": "69123-T-084", 
+        "insee": "69123", 
+        "nom": "TAXBRO03"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.868697, 
+          45.7369599990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 5, Rue Marius Berliet", 
+        "emplacements": 3, 
+        "id": "69123-T-085", 
+        "insee": "69123", 
+        "nom": "TAX801"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.859368, 
+          45.7664509990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Jules Ferry", 
+        "emplacements": 9, 
+        "id": "69123-T-086", 
+        "insee": "69123", 
+        "nom": "TAX601"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.90864, 
+          45.7337739990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3, Rue Verdun", 
+        "emplacements": 2, 
+        "id": "69123-T-087", 
+        "insee": "69123", 
+        "nom": "TAXBRO01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.79294, 
+          45.7871259990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Maurice B\u00e9jart", 
+        "emplacements": 5, 
+        "id": "69123-T-088", 
+        "insee": "69123", 
+        "nom": "TAX903"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.858639, 
+          45.7594289990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Vivier Merle", 
+        "emplacements": 46, 
+        "id": "69123-T-089", 
+        "insee": "69123", 
+        "nom": "TAX303"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.790113, 
+          45.7971669990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "99 Av lanessan", 
+        "emplacements": 7, 
+        "id": "69123-T-090", 
+        "insee": "69123", 
+        "nom": "TAXCHP01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.87911, 
+          45.7435439990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Place d'arsonval", 
+        "emplacements": 30, 
+        "id": "69123-T-091", 
+        "insee": "69123", 
+        "nom": "TAX310"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.846355, 
+          45.7522749990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Emir Abd El Kader", 
+        "emplacements": 4, 
+        "id": "69123-T-092", 
+        "insee": "69123", 
+        "nom": "TAX708"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.867241, 
+          45.7291379990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue du Professeur Beauvisage", 
+        "emplacements": 5, 
+        "id": "69123-T-093", 
+        "insee": "69123", 
+        "nom": "TAX803"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.867749, 
+          45.7289049990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "114, Boulevard des Etats-Unis", 
+        "emplacements": 3, 
+        "id": "69123-T-094", 
+        "insee": "69123", 
+        "nom": "TAX804"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.857791, 
+          45.7856729990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "10, Quai Charles de Gaulle", 
+        "emplacements": 13, 
+        "id": "69123-T-095", 
+        "insee": "69123", 
+        "nom": "TAX606"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.828065, 
+          45.7516439990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4, Place Carnot", 
+        "emplacements": 5, 
+        "id": "69123-T-096", 
+        "insee": "69123", 
+        "nom": "TAX203"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.834448, 
+          45.7670289990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Rue Pr\u00e9sident Edouard Herriot", 
+        "emplacements": 5, 
+        "id": "69123-T-097", 
+        "insee": "69123", 
+        "nom": "TAX100"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.87934, 
+          45.7693549990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4, Avenue Henri Barbusse", 
+        "emplacements": 5, 
+        "id": "69123-T-098", 
+        "insee": "69123", 
+        "nom": "TAXVIL05"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.834442, 
+          45.7666229990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5, Rue Pr\u00e9sident Edouard Herriot", 
+        "emplacements": 3, 
+        "id": "69123-T-099", 
+        "insee": "69123", 
+        "nom": "TAX101"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.85599, 
+          45.7630879990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "32, Boulevard Eug\u00e9ne Deruelle", 
+        "emplacements": 5, 
+        "id": "69123-T-100", 
+        "insee": "69123", 
+        "nom": "TAX306"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.808672, 
+          45.7742859990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "45b, Quai Jayr", 
+        "emplacements": 5, 
+        "id": "69123-T-101", 
+        "insee": "69123", 
+        "nom": "TAX900"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.830401, 
+          45.7270039990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "256, Rue Marcel M\u00e9rieux", 
+        "emplacements": 6, 
+        "id": "69123-T-102", 
+        "insee": "69123", 
+        "nom": "TAX704"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.837561, 
+          45.7373719990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1, Rue Marie-Madeleine Fourcade", 
+        "emplacements": 4, 
+        "id": "69123-T-103", 
+        "insee": "69123", 
+        "nom": "TAX705"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.838308, 
+          45.8767059990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai Pasteur", 
+        "emplacements": 4, 
+        "id": "69123-T-104", 
+        "insee": "69123", 
+        "nom": "TAXNEU01"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.803956, 
+          45.7793329990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Roger Salengro", 
+        "emplacements": 5, 
+        "id": "69123-T-105", 
+        "insee": "69123", 
+        "nom": "TAX902"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.8259, 
+          45.7320769990571
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "16, Place Docteurs Charles et Christophe M\u00e9rieux", 
+        "emplacements": 10, 
+        "id": "69123-T-106", 
+        "insee": "69123", 
+        "nom": "TAX703"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.812555, 
+          45.7880699990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Face 8, Rue de la Navigation", 
+        "emplacements": 4, 
+        "id": "69123-T-107", 
+        "insee": "69123", 
+        "nom": "TAX904"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          4.86524, 
+          45.7765279990572
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "45, Avenue Galline", 
+        "emplacements": 6, 
+        "id": "69123-T-108", 
+        "insee": "69123", 
+        "nom": "TAXVIL02"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.33601217964, 
+          48.8636050655
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 \u00e0 5 RUE SAINT HONORE", 
+        "id": "75006-T-002", 
+        "insee": "75056", 
+        "no_appel": "0142606140", 
+        "nom": "Palais royal"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.33283223256, 
+          48.8704409733
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4 PLACE DE L OPERA", 
+        "id": "75006-T-005", 
+        "insee": "75056", 
+        "no_appel": "0147427575", 
+        "nom": "Op\u00e9ra"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.36090916367, 
+          48.8553716906
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "8 RUE DE RIVOLI", 
+        "id": "75006-T-008", 
+        "insee": "75056", 
+        "no_appel": "0148874939", 
+        "nom": "Saint-Paul"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.34478897827, 
+          48.8535275484
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "29 QUAI SAINT MICHEL", 
+        "id": "75006-T-009", 
+        "insee": "75056", 
+        "no_appel": "0143296366", 
+        "nom": "Place Saint-Michel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.35230732561, 
+          48.8371426561
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "90 BOULEVARD SAINT MARCEL", 
+        "id": "75006-T-010", 
+        "insee": "75056", 
+        "no_appel": "0143310000", 
+        "nom": "Gobelins"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.34823611696, 
+          48.8503092893
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "60 BOULEVARD SAINT GERMAIN", 
+        "id": "75006-T-011", 
+        "insee": "75056", 
+        "no_appel": "0146341032", 
+        "nom": "Maubert Mutualit\u00e9"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.34185384405, 
+          48.8472758731
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "22 RUE SOUFFLOT", 
+        "id": "75006-T-012", 
+        "insee": "75056", 
+        "no_appel": "0146330000", 
+        "nom": "Panth\u00e9on"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.35239222576, 
+          48.8433804054
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "75bis RUE MONGE", 
+        "id": "75006-T-013", 
+        "insee": "75056", 
+        "no_appel": "0145871595", 
+        "nom": "Place Monge"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.33514576303, 
+          48.8530135701
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4 RUE DU FOUR", 
+        "id": "75006-T-016", 
+        "insee": "75056", 
+        "no_appel": "0143290000", 
+        "nom": "Mabillon"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.32763640087, 
+          48.8502444506
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "27 RUE DU CHERCHE MIDI", 
+        "id": "75006-T-019", 
+        "insee": "75056", 
+        "no_appel": "0145488475", 
+        "nom": "S\u00e8vres Babylone"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.30239104714, 
+          48.8616886404
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 AVENUE BOSQUET", 
+        "id": "75006-T-021", 
+        "insee": "75056", 
+        "no_appel": "0147056686", 
+        "nom": "Alma - Branly"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.32639357017, 
+          48.8564685779
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "46 \u00e0 54 RUE DU BAC", 
+        "id": "75006-T-022", 
+        "insee": "75056", 
+        "no_appel": "0142224964", 
+        "nom": "Bac - Saint Germain"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.30696076558, 
+          48.8542591923
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "24 AVENUE DE TOURVILLE", 
+        "id": "75006-T-023", 
+        "insee": "75056", 
+        "no_appel": "0147050000", 
+        "nom": "Ecole Militaire"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.30983064893, 
+          48.8582561028
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "58 BOULEVARD DE LA TOUR-MAUBOURG", 
+        "id": "75006-T-025", 
+        "insee": "75056", 
+        "no_appel": "0145557842", 
+        "nom": "La Tour Maubourg - Invalides"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.3233582984, 
+          48.8705912499
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "4 BOULEVARD MALESHERBES", 
+        "id": "75006-T-027", 
+        "insee": "75056", 
+        "no_appel": "0142650000", 
+        "nom": "Madeleine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.30115183129, 
+          48.8652344475
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 AVENUE GEORGE V", 
+        "id": "75006-T-028", 
+        "insee": "75056", 
+        "no_appel": "0140709604", 
+        "nom": "Place de l'Alma"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.3129441184, 
+          48.8707335686
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "AVENUE MATIGNON", 
+        "id": "75006-T-029", 
+        "insee": "75056", 
+        "no_appel": "0142562900", 
+        "nom": "Rond Point des Champs Elys\u00e9es"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.29885147349, 
+          48.8777671424
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "272 RUE DU FAUBOURG SAINT-HONOR\u00c9", 
+        "id": "75006-T-030", 
+        "insee": "75056", 
+        "no_appel": "0147630000", 
+        "nom": "Place des Ternes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.32056246485, 
+          48.8743006729
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "42 BOULEVARD MALESHERBES", 
+        "id": "75006-T-032", 
+        "insee": "75056", 
+        "no_appel": "0147425473", 
+        "nom": "Saint Augustin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.32789980368, 
+          48.8828890921
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "80 \u00e0 84 RUE DE CLICHY", 
+        "id": "75006-T-033", 
+        "insee": "75056", 
+        "no_appel": "0142850000", 
+        "nom": "Place De Clichy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.33255592915, 
+          48.8765472779
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 PLACE D'ESTIENNE D'ORVES", 
+        "id": "75006-T-034", 
+        "insee": "75056", 
+        "no_appel": "0148740000", 
+        "nom": "Trinit\u00e9 d'Estienne d'Orves"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.39782744926, 
+          48.84860853
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 AVENUE DU TR\u00d4NE", 
+        "id": "75006-T-038", 
+        "insee": "75056", 
+        "no_appel": "0143732958", 
+        "nom": "Nation"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.36611465921, 
+          48.8670133468
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1bis AVENUE DE LA R\u00c9PUBLIQUE", 
+        "id": "75006-T-039", 
+        "insee": "75056", 
+        "no_appel": "0142714204", 
+        "nom": "R\u00e9publique"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.38474005809, 
+          48.850304768
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 RUE FAIDHERBE", 
+        "id": "75006-T-040", 
+        "insee": "75056", 
+        "no_appel": "0143720000", 
+        "nom": "H\u00f4pital Saint Antoine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.38009671141, 
+          48.8580220048
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "PLACE L\u00c9ON BLUM", 
+        "id": "75006-T-041", 
+        "insee": "75056", 
+        "no_appel": "0143790000", 
+        "nom": "Mairie du 11\u00e8 - L\u00e9on Blum"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.36747268188, 
+          48.8472505041
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "10 PLACE DE LA BASTILLE", 
+        "id": "75006-T-044", 
+        "insee": "75056", 
+        "no_appel": "0143470332", 
+        "nom": "Bastille"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.39581361584, 
+          48.840021118
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 PLACE F\u00c9LIX EBOU\u00c9", 
+        "id": "75006-T-045", 
+        "insee": "75056", 
+        "no_appel": "0143430000", 
+        "nom": "Daumesnil - Felix Ebou\u00e9"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.44229491315, 
+          48.8450127811
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "ROUTE DES PELOUSES DE MARIGNY", 
+        "id": "75006-T-047", 
+        "insee": "75056", 
+        "no_appel": "0148080000", 
+        "nom": "Ch\u00e2teau de Vincennes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.38602425378, 
+          48.8318926306
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "8 RUE DES PIROGUES DE BERCY", 
+        "id": "75006-T-048", 
+        "insee": "75056", 
+        "no_appel": "0144750916", 
+        "nom": "Cour Saint Emilion"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.36554082014, 
+          48.8341564891
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "BOULEVARD VINCENT AURIOL", 
+        "id": "75006-T-052", 
+        "insee": "75056", 
+        "no_appel": "0145833493", 
+        "nom": "Place d'Italie"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.3737862087, 
+          48.8261083051
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "117 \u00e0 121 RUE DE PATAY", 
+        "id": "75006-T-055", 
+        "insee": "75056", 
+        "no_appel": "0145830000", 
+        "nom": "Rue De Patay"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.36014419765, 
+          48.8193457479
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "164 BOULEVARD MASS\u00c9NA", 
+        "id": "75006-T-056", 
+        "insee": "75056", 
+        "no_appel": "0145860044", 
+        "nom": "Porte d'Italie"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.33248852027, 
+          48.835004802
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "297 BOULEVARD RASPAIL", 
+        "id": "75006-T-058", 
+        "insee": "75056", 
+        "no_appel": "0143350000", 
+        "nom": "Denfert Rochereau"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.32582313281, 
+          48.8223933839
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 PLACE DU VINGT-CINQ AO\u00dbT 1944", 
+        "id": "75006-T-059", 
+        "insee": "75056", 
+        "no_appel": "0145405205", 
+        "nom": "Porte d'Orl\u00e9ans"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.31351339004, 
+          48.8316181139
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "132 RUE RAYMOND LOSSERAND", 
+        "id": "75006-T-061", 
+        "insee": "75056", 
+        "no_appel": "0145416600", 
+        "nom": "Plaisance"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.28492324504, 
+          48.8470063366
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "56 RUE LINOIS", 
+        "id": "75006-T-063", 
+        "insee": "75056", 
+        "no_appel": "0145782000", 
+        "nom": "Place Charles Michels"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.28884688905, 
+          48.8331542686
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "380 RUE DE VAUGIRARD", 
+        "id": "75006-T-064", 
+        "insee": "75056", 
+        "no_appel": "0148280000", 
+        "nom": "Porte de Versailles"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.29735568619, 
+          48.8378406035
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "306 RUE DE VAUGIRARD", 
+        "id": "75006-T-065", 
+        "insee": "75056", 
+        "no_appel": "0142500000", 
+        "nom": "Convention - Vaugirard"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.29852181114, 
+          48.8492777899
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "65 AVENUE DE LA MOTTE-PICQUET", 
+        "id": "75006-T-068", 
+        "insee": "75056", 
+        "no_appel": "0145660000", 
+        "nom": "La Motte-Picquet Grenelle"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.31188086803, 
+          48.8452046846
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 BOULEVARD PASTEUR", 
+        "id": "75006-T-071", 
+        "insee": "75056", 
+        "no_appel": "0147340000", 
+        "nom": "S\u00e8vres Lecourbe"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.27375319316, 
+          48.8580422815
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "11 DE LA MUETTE", 
+        "id": "75006-T-072", 
+        "insee": "75056", 
+        "no_appel": "0142880000", 
+        "nom": "La Muette"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.25715658025, 
+          48.837269071
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 PLACE DE LA PORTE DE SAINT-CLOUD", 
+        "id": "75006-T-073", 
+        "insee": "75056", 
+        "no_appel": "0146516040", 
+        "nom": "Porte de Saint Cloud"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.27831386373, 
+          48.8514240736
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "PLACE CL\u00c9MENT ADER", 
+        "id": "75006-T-075", 
+        "insee": "75056", 
+        "no_appel": "0145245617", 
+        "nom": "Maison de la Radio"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.28603436751, 
+          48.8697278689
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 PLACE VICTOR HUGO", 
+        "id": "75006-T-078", 
+        "insee": "75056", 
+        "no_appel": "0145530011", 
+        "nom": "Place Victor Hugo"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.25947261201, 
+          48.8471738534
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "136 \u00e0 144 BOULEVARD EXELMANS", 
+        "id": "75006-T-079", 
+        "insee": "75056", 
+        "no_appel": "0146511461", 
+        "nom": "Porte d'Auteuil"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.28609868006, 
+          48.8634189106
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 AVENUE D'EYLAU", 
+        "id": "75006-T-081", 
+        "insee": "75056", 
+        "no_appel": "0147270000", 
+        "nom": "Trocad\u00e9ro"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.30525509621, 
+          48.8871190658
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "2 AVENUE DE WAGRAM", 
+        "id": "75006-T-082", 
+        "insee": "75056", 
+        "no_appel": "0143800199", 
+        "nom": "Etoile - Wagram"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.29758742677, 
+          48.8843824378
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 PLACE DU MAR\u00c9CHAL JUIN", 
+        "id": "75006-T-083", 
+        "insee": "75056", 
+        "no_appel": "0142270000", 
+        "nom": "Mar\u00e9chal Juin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.30375217957, 
+          48.8794622634
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "94 BOULEVARD DE COURCELLES", 
+        "id": "75006-T-085", 
+        "insee": "75056", 
+        "no_appel": "0147668050", 
+        "nom": "Courcelles Chazelle"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.29128231472, 
+          48.8852476734
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "5 BOULEVARD GOUVION-SAINT-CYR", 
+        "id": "75006-T-088", 
+        "insee": "75056", 
+        "no_appel": "0147662277", 
+        "nom": "Porte de Champeret"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.32878168137, 
+          48.8982878334
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 AVENUE DE LA PORTE DE SAINT OUEN", 
+        "id": "75006-T-090", 
+        "insee": "75056", 
+        "no_appel": "0142630000", 
+        "nom": "Porte de Saint Ouen"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.31483589094, 
+          48.8815284282
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 AVENUE DE VILLIERS", 
+        "id": "75006-T-091", 
+        "insee": "75056", 
+        "no_appel": "0146220000", 
+        "nom": "Villiers - Courcelles"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.34518964275, 
+          48.8925750779
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "30 RUE HERMEL", 
+        "id": "75006-T-092", 
+        "insee": "75056", 
+        "no_appel": "0146060000", 
+        "nom": "Mairie du 18\u00e8me"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.38145712053, 
+          48.877841337
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "28 RUE BOTZARIS", 
+        "id": "75006-T-100", 
+        "insee": "75056", 
+        "no_appel": "0142060132", 
+        "nom": "Buttes Chaumont - Botzaris"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.39826413731, 
+          48.8644620428
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "16 AVENUE DU P\u00c8RE LACHAISE", 
+        "id": "75006-T-109", 
+        "insee": "75056", 
+        "no_appel": "0146360000", 
+        "nom": "Mairie du 20\u00e8me - Gambetta"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.41127131571, 
+          48.8538169429
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "3 AVENUE DE LA PORTE DE MONTREUIL", 
+        "id": "75006-T-115", 
+        "insee": "75056", 
+        "no_appel": "0143700000", 
+        "nom": "Porte de Montreuil"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          2.3384553552, 
+          48.8526987119
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "134-140 BOULEVARD SAINT GERMAIN", 
+        "id": "75006-T-121", 
+        "insee": "75056", 
+        "no_appel": "0143260000", 
+        "nom": "Od\u00e9on"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          0.806584975, 
+          49.484867377
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Le Trait", 
+        "emplacements": 1, 
+        "id": "76540-T-001", 
+        "insee": "76540", 
+        "nom": "Le Trait"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.048121034, 
+          49.480745202
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Demi-Lune", 
+        "emplacements": 2, 
+        "id": "76540-T-002", 
+        "insee": "76540", 
+        "nom": "Demi-Lune"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.147006251, 
+          49.497132255
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Isneauville", 
+        "emplacements": 1, 
+        "id": "76540-T-003", 
+        "insee": "76540", 
+        "nom": "Isneauville"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.12957693, 
+          49.45679838
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue Albert Dupuis", 
+        "emplacements": 2, 
+        "id": "76540-T-004", 
+        "insee": "76540", 
+        "nom": "Rue Albert Dupuis"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.093465121, 
+          49.448612846
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Gare SNCF", 
+        "emplacements": 13, 
+        "id": "76540-T-005", 
+        "insee": "76540", 
+        "nom": "Gare SNCF"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.098979772, 
+          49.442292516
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "H\u00f4tel de Ville", 
+        "emplacements": 4, 
+        "id": "76540-T-006", 
+        "insee": "76540", 
+        "nom": "H\u00f4tel de Ville"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.087564705, 
+          49.439121491
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai du Havre", 
+        "emplacements": 5, 
+        "id": "76540-T-008", 
+        "insee": "76540", 
+        "nom": "Quai du Havre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.10160283, 
+          49.438312209
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Saint Marc", 
+        "emplacements": 3, 
+        "id": "76540-T-009", 
+        "insee": "76540", 
+        "nom": "Place Saint Marc"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.087923156, 
+          49.433496412
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place des Emmur\u00e9s", 
+        "emplacements": 2, 
+        "id": "76540-T-010", 
+        "insee": "76540", 
+        "nom": "Place des Emmur\u00e9s"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.106847622, 
+          49.43905772
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "CHU - Rue d'Amiens", 
+        "emplacements": 4, 
+        "id": "76540-T-011", 
+        "insee": "76540", 
+        "nom": "CHU - Rue d'Amiens"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.065024569, 
+          49.446954816
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de Lillebonne", 
+        "emplacements": 2, 
+        "id": "76540-T-013", 
+        "insee": "76540", 
+        "nom": "Rue de Lillebonne"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.089772605, 
+          49.434332457
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Cours Cl\u00e9menceau", 
+        "emplacements": 3, 
+        "id": "76540-T-014", 
+        "insee": "76540", 
+        "nom": "Cours Cl\u00e9menceau"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.116571081, 
+          49.463873399
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue Mar\u00e9chal Juin", 
+        "emplacements": 2, 
+        "id": "76540-T-016", 
+        "insee": "76540", 
+        "nom": "Avenue Mar\u00e9chal Juin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.070967247, 
+          49.461856835
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Colbert", 
+        "emplacements": 2, 
+        "id": "76540-T-017", 
+        "insee": "76540", 
+        "nom": "Place Colbert"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.041194176, 
+          49.523622749
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Route de Dieppe", 
+        "emplacements": 1, 
+        "id": "76540-T-018", 
+        "insee": "76540", 
+        "nom": "Route de Dieppe"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.069682569, 
+          49.412712342
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Boulevard Stanislas Girardin", 
+        "emplacements": 1, 
+        "id": "76540-T-019", 
+        "insee": "76540", 
+        "nom": "Boulevard Stanislas Girardin"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.090635765, 
+          49.414638854
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Mairie de Sotteville", 
+        "emplacements": 4, 
+        "id": "76540-T-020", 
+        "insee": "76540", 
+        "nom": "Mairie de Sotteville"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.071645411, 
+          49.443737251
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Terminal de croisi\u00e8re (domaine priv\u00e9 GPMR)", 
+        "emplacements": 1, 
+        "id": "76540-T-021", 
+        "insee": "76540", 
+        "nom": "Terminal de croisi\u00e8re (domaine priv\u00e9 GPMR)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.12860178, 
+          49.460324362
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue du Pr\u00e9sident Kennedy", 
+        "emplacements": 2, 
+        "id": "76540-T-022", 
+        "insee": "76540", 
+        "nom": "Rue du Pr\u00e9sident Kennedy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.145426299, 
+          49.440417226
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place du Mar\u00e9chal Foch", 
+        "emplacements": 2, 
+        "id": "76540-T-023", 
+        "insee": "76540", 
+        "nom": "Place du Mar\u00e9chal Foch"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.05045693, 
+          49.468915305
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "283 route de Dieppe", 
+        "emplacements": 2, 
+        "id": "76540-T-024", 
+        "insee": "76540", 
+        "nom": "283 route de Dieppe"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.008454446, 
+          49.357924307
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la Mairie", 
+        "emplacements": 1, 
+        "id": "76540-T-025", 
+        "insee": "76540", 
+        "nom": "Place de la Mairie"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.023409043, 
+          49.388236092
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place du March\u00e9", 
+        "emplacements": 1, 
+        "id": "76540-T-026", 
+        "insee": "76540", 
+        "nom": "Place du March\u00e9"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.050767629, 
+          49.40794152
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Avenue des Provinces", 
+        "emplacements": 3, 
+        "id": "76540-T-027", 
+        "insee": "76540", 
+        "nom": "Avenue des Provinces"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.039282831, 
+          49.477771578
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue de Binche", 
+        "emplacements": 2, 
+        "id": "76540-T-028", 
+        "insee": "76540", 
+        "nom": "Rue de Binche"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.126311175, 
+          49.422205817
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "56 route de Paris", 
+        "emplacements": 1, 
+        "id": "76540-T-029", 
+        "insee": "76540", 
+        "nom": "56 route de Paris"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.036605376, 
+          49.451175884
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "1 place Jean Jaur\u00e8s", 
+        "emplacements": 2, 
+        "id": "76540-T-031", 
+        "insee": "76540", 
+        "nom": "1 place Jean Jaur\u00e8s"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.157195122, 
+          49.43229298
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place de la mairie", 
+        "emplacements": 2, 
+        "id": "76540-T-032", 
+        "insee": "76540", 
+        "nom": "Place de la mairie"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.074251954, 
+          49.398454987
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue du Madrillet", 
+        "emplacements": 3, 
+        "id": "76540-T-033", 
+        "insee": "76540", 
+        "nom": "Rue du Madrillet"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.077594095, 
+          49.426404439
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place Saint Julien", 
+        "emplacements": 1, 
+        "id": "76540-T-035", 
+        "insee": "76540", 
+        "nom": "Place Saint Julien"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.084752665, 
+          49.430016836
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Saint Sever", 
+        "emplacements": 5, 
+        "id": "76540-T-037", 
+        "insee": "76540", 
+        "nom": "Saint Sever"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.074867017, 
+          49.433105165
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Jean Rondeau", 
+        "emplacements": 4, 
+        "id": "76540-T-038", 
+        "insee": "76540", 
+        "nom": "Jean Rondeau"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          0.876530001, 
+          49.4813747
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai de la Lib\u00e9ration", 
+        "emplacements": 2, 
+        "id": "76540-T-039", 
+        "insee": "76540", 
+        "nom": "Quai de la Lib\u00e9ration"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.039616614, 
+          49.507438689
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Sente Delaunay", 
+        "emplacements": 1, 
+        "id": "76540-T-040", 
+        "insee": "76540", 
+        "nom": "Sente Delaunay"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.0350572, 
+          49.4502984
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Rue du Pr\u00e9sendient Allende", 
+        "emplacements": 6, 
+        "id": "76540-T-041", 
+        "insee": "76540", 
+        "nom": "Rue du Pr\u00e9sendient Allende"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.139063491, 
+          49.412036917
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Route de Paris", 
+        "emplacements": 2, 
+        "id": "76540-T-042", 
+        "insee": "76540", 
+        "nom": "Route de Paris"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.081461201, 
+          49.4384463
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Quai Cavelier de la salle", 
+        "emplacements": 2, 
+        "id": "76540-T-043", 
+        "insee": "76540", 
+        "nom": "Quai Cavelier de la salle"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.0932065, 
+          49.4399428
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue Grand Pont", 
+        "emplacements": 2, 
+        "id": "76540-T-045", 
+        "insee": "76540", 
+        "nom": "rue Grand Pont"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.0878519, 
+          49.4416033
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue Saint Eloi", 
+        "emplacements": 2, 
+        "id": "76540-T-046", 
+        "insee": "76540", 
+        "nom": "rue Saint Eloi"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.100062699, 
+          49.4482862
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue Beauvoisine", 
+        "emplacements": 2, 
+        "id": "76540-T-047", 
+        "insee": "76540", 
+        "nom": "rue Beauvoisine"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.079442928, 
+          49.445510606
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue du contrat Social", 
+        "emplacements": 4, 
+        "id": "76540-T-359", 
+        "insee": "76540", 
+        "nom": "rue du contrat Social"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.09108567, 
+          49.443050042
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "rue Jeanne d'Arc", 
+        "emplacements": 7, 
+        "id": "76540-T-679", 
+        "insee": "76540", 
+        "nom": "rue Jeanne d'Arc"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.250959, 
+          45.83009
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place des Carmes", 
+        "id": "87085-T-001", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "Place des Carmes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.259683, 
+          45.826823
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "H\u00f4tel de Ville", 
+        "id": "87085-T-002", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "H\u00f4tel de Ville"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.267177, 
+          45.836022
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Gare B\u00e9n\u00e9dictins", 
+        "id": "87085-T-003", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "Gare B\u00e9n\u00e9dictins"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.261089, 
+          45.832206
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Place R\u00e9publique", 
+        "id": "87085-T-004", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "Place R\u00e9publique"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.292085, 
+          45.861055
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Ester", 
+        "id": "87085-T-005", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "Ester"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.234741, 
+          45.811335
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "CHU", 
+        "id": "87085-T-006", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "CHU"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.283251, 
+          45.813184
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "Clinique Ch\u00e9nieux", 
+        "id": "87085-T-007", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "Clinique Ch\u00e9nieux"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          1.176397, 
+          45.862209
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "adresse": "A\u00e9roport", 
+        "id": "87085-T-008", 
+        "insee": "87085", 
+        "no_appel": "555383838", 
+        "nom": "A\u00e9roport"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "properties": {
+    "date": "2021-09-14", 
+    "producteur": "le.taxi", 
+    "version": "0.0.3"
+  }, 
+  "type": "FeatureCollection"
+}
